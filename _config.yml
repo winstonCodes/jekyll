@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Winston
+title: Winston Smith
 email: winstonsmithcodes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An inarguably well-designed person.
-baseurl: "/" # the subpath of your site, e.g. /blog
+  I build your ideas
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://winstoncodes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: winstoncodes
@@ -25,6 +25,7 @@ github_username:  winstoncodes
 
 # Build settings
 markdown: kramdown
+include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
