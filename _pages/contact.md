@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact.html
 ---
 
-winston[at]winstoncodes.com
+winston<span style="color: #ff520d;">[at]</span>winstoncodes.com
 ---------
 > Contact me for anything interesting
