@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Love Helping Clients"
 author: "Winston Smith"
-categories: commentary
+categories: blog
 ---
 
 I love helping clients build applications. Whether the application is facing the public or an internal tool, it feels great to make a difference. I know I am successful when my work allows people to focus on running their business. Making someone's job easier helps them achieve work-life balance, which as a father I can relate to. Also its pretty cool to see a business scale. When a business increases revenue, reduces expenses and is able to hire new employees to meet an increase in demand, it's nice to be a part of that.  
