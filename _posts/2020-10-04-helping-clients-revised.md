@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Love Helping Clients - remastered"
+title: "Why I Love Helping Clients - revised"
 author: "Winston Smith"
 categories: blog
 ---
